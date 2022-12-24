@@ -1,4 +1,4 @@
-package tsp.suf4j;
+package tsp.suf4j.json;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
